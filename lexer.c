@@ -49,7 +49,7 @@ int main(void)
 	fpOut2=fopen("output_tok.txt","w+");
 	//fclose(fpOut);
 	
-	fprintf(fpOut,"\nName: Siddharth Dash\n");
+	fprintf(fpOut,"\nName: BHAGYA SRI\n");
 	fprintf(fpOut,"Input file: input1.txt\n\n");
 	fprintf(fpOut,"LINE\tTYPE\t\tLEXEME\n");
 	fprintf(fpOut,"------------------------------\n");
