@@ -1,0 +1,27 @@
+
+Name: Siddharth Dash
+Input file: input1.txt
+
+LINE	TYPE		LEXEME
+------------------------------
+1	keyword import	import
+2	IDENTIFIER	Cocoa
+4	keyword var	var
+4	IDENTIFIER	stringA
+4	TK_KEY_EQ	=
+4	STR LIT		" Hello, Swift!"
+5	IDENTIFIER	println
+5	TK_KEY_OCBRAC	(
+5	IDENTIFIER	stringA
+5	TK_KEY_CCBRAC	)
+7	keyword var	var
+7	IDENTIFIER	stringB
+7	TK_KEY_EQ	=
+7	IDENTIFIER	String
+7	TK_KEY_OCBRAC	(
+7	STR LIT		" Hello, Swift!"
+7	TK_KEY_CCBRAC	)
+8	IDENTIFIER	println
+8	TK_KEY_OCBRAC	(
+8	IDENTIFIER	stringB
+8	TK_KEY_CCBRAC	)

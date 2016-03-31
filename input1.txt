@@ -1,0 +1,8 @@
+import Cocoa
+
+var stringA = " Hello, Swift!"
+println( stringA )
+
+var stringB = String(" Hello, Swift!")
+println( stringB )
+

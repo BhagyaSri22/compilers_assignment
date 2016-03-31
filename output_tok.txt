@@ -1,0 +1,21 @@
+NUM		1
+ID		2
+NUM		4
+ID		4
+EQ		4
+STR LIT 	4
+ID		5
+OPR		5
+ID		5
+CLR		5
+NUM		7
+ID		7
+EQ		7
+ID		7
+OPR		7
+STR LIT 	7
+CLR		7
+ID		8
+OPR		8
+ID		8
+CLR		8
