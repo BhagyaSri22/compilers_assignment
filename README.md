@@ -16,3 +16,7 @@ sequence of one or more digits with the same provision above for integers, follo
 decimal point and one or more digits after the decimal point.
 String literals: start and end with a double quote followed by zero or more characters
 that may not be newlines, carriage returns, double quotes, or backslashes. The only
+
+Parsing:
+We used Topdown parser(LL1) for parsing. For this we wrote grammar and generated the ll1 parsing table using a tool
+http://smlweb.cpsc.ucalgary.ca/start.html
